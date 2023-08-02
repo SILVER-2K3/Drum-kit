@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #1d212b;
 }
 
 h1 {
@@ -17,31 +17,38 @@ footer {
 }
 
 .w {
-  background-image: url("images/tom1.png");
+  background-image: url("images/changes/bass.png" );
+  background-size: 50px;
 }
 
 .a {
-  background-image: url("images/tom2.png");
+  background-image: url("images/changes/drums.png");
+  background-size: 90px;
 }
 
 .s {
-  background-image: url("images/tom3.png");
+  background-image: url("images/changes/flute.png");
+  background-size: 50px;
 }
 
 .d {
-  background-image: url("images/tom4.png");
+  background-image: url("images/changes/guitar.png");
+  background-size: 50px;
 }
 
 .j {
-  background-image: url("images/snare.png");
+  background-image: url("images/changes/piano.png");
+  background-size: 50px;
 }
 
 .k {
-  background-image: url("images/crash.png");
+  background-image: url("images/changes/saxophone.png");
+  background-size: 50px;
 }
 
 .l {
-  background-image: url("images/kick.png");
+  background-image: url("images/changes/violin.png");
+  background-size: 50px;
 }
 
 .set {
@@ -64,12 +71,12 @@ footer {
 
 .drum {
   outline: none;
-  border: 10px solid #404B69;
+  border: 10px solid #405d92;
   font-size: 5rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
+  color: #f54156;
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
   display: inline-block;

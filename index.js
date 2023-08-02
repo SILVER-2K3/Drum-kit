@@ -31,17 +31,17 @@ function makeSound(key) {
 
   switch (key) {
     case "w":
-      var audio = new Audio('sounds/tom-1.mp3');
+      var audio = new Audio('sounds/changes/Bass.m4a');
       audio.play();
       break;
 
     case "a":
-      var audio = new Audio('sounds/tom-2.mp3');
+      var audio = new Audio('sounds/changes/Drums.m4a');
       audio.play();
       break;
 
     case "s":
-      var audio = new Audio('sounds/tom-3.mp3');
+      var audio = new Audio('sounds/changes/Flute.m4a');
       audio.play();
       break;
 
@@ -51,17 +51,17 @@ function makeSound(key) {
       break;
 
     case "j":
-      var audio = new Audio('sounds/snare.mp3');
+      var audio = new Audio('sounds/changes/Piano.m4a');
       audio.play();
       break;
 
     case "k":
-      var audio = new Audio('sounds/crash.mp3');
+      var audio = new Audio('sounds/changes/Saxophone.m4a');
       audio.play();
       break;
 
     case "l":
-      var audio = new Audio('sounds/kick-bass.mp3');
+      var audio = new Audio('sounds/changes/violin.m4a');
       audio.play();
       break;
 
